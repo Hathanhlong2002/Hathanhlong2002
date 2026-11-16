@@ -41,9 +41,9 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hathanhlong2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100449)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hathanhlong2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611160317)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hathanhlong2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611100449)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hathanhlong2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611160317)
 
 </div>
 
@@ -51,26 +51,27 @@ flowchart LR
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hathanhlong2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611100449)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hathanhlong2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611160317)
 
 </div>
 
 ## `> stats`
 
-**Total repositories**: 25  
-**Last updated**: 2026-11-10
+**Total repositories**: 26  
+**Last updated**: 2026-11-16
 
 ### Categories
 
 - 🎮 Unity / Game: **10**
+- 🌐 Web / Frontend: **6**
 - 📁 Other: **6**
-- 🌐 Web / Frontend: **5**
 - 🤖 AI / ML: **4**
 
 ## `> recent repos`
 
 | Repo | Language | Updated | Stars | Category |
 |------|----------|---------|-------|----------|
+| [ForgeTax-Mini-3D-Game](https://github.com/Hathanhlong2002/ForgeTax-Mini-3D-Game) | HTML | 2026-11-11 | 0 | 🌐 Web / Frontend |
 | [github-repos-dashboard](https://github.com/Hathanhlong2002/github-repos-dashboard) | HTML | 2026-11-10 | 0 | 🌐 Web / Frontend |
 | [Hathanhlong2002](https://github.com/Hathanhlong2002/Hathanhlong2002) | - | 2026-11-10 | 0 | 📁 Other |
 | [BallPlatform3d-Casual-Game_Unity](https://github.com/Hathanhlong2002/BallPlatform3d-Casual-Game_Unity) | ShaderLab | 2026-10-18 | 0 | 🎮 Unity / Game |
@@ -78,11 +79,10 @@ flowchart LR
 | [eyetube-control](https://github.com/Hathanhlong2002/eyetube-control) | JavaScript | 2026-09-13 | 0 | 🌐 Web / Frontend |
 | [tool-capture](https://github.com/Hathanhlong2002/tool-capture) | TypeScript | 2026-09-13 | 0 | 🌐 Web / Frontend |
 | [wxt](https://github.com/Hathanhlong2002/wxt) | - | 2026-09-12 | 0 | 🌐 Web / Frontend |
-| [UniTask](https://github.com/Hathanhlong2002/UniTask) | - | 2026-09-12 | 0 | 🎮 Unity / Game |
 | [unity-actions](https://github.com/Hathanhlong2002/unity-actions) | - | 2026-09-12 | 0 | 🎮 Unity / Game |
-| [unity-mcp](https://github.com/Hathanhlong2002/unity-mcp) | - | 2026-09-12 | 0 | 🎮 Unity / Game |
 | [ml-agents](https://github.com/Hathanhlong2002/ml-agents) | - | 2026-09-12 | 0 | 🎮 Unity / Game |
-| [playwright-mcp](https://github.com/Hathanhlong2002/playwright-mcp) | - | 2026-09-12 | 0 | 📁 Other |
+| [unity-mcp](https://github.com/Hathanhlong2002/unity-mcp) | - | 2026-09-12 | 0 | 🎮 Unity / Game |
+| [UniTask](https://github.com/Hathanhlong2002/UniTask) | - | 2026-09-12 | 0 | 🎮 Unity / Game |
 
 ## `> contribution snake`
 
