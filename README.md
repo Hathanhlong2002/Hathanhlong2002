@@ -41,9 +41,9 @@ flowchart LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hathanhlong2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611160317)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hathanhlong2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611230406)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hathanhlong2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611160317)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hathanhlong2002&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_bust=202611230406)
 
 </div>
 
@@ -51,14 +51,14 @@ flowchart LR
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hathanhlong2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611160317)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hathanhlong2002&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_bust=202611230406)
 
 </div>
 
 ## `> stats`
 
 **Total repositories**: 26  
-**Last updated**: 2026-11-16
+**Last updated**: 2026-11-23
 
 ### Categories
 
